@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Domestic Express",
+        "img": "../image/logo192.png",
+        "description": "We send packages 'domestically' anywhere in India, 365 days a year"
+    },
+    {
+        "id": 2,
+        "name": "International Express",
+        "img": "../image/logo192.png",
+        "description": "We send packages 'internationaly' anywhere in the world, 365 days a year"
+    },
+    {
+        "id": 3,
+        "name": "Cold Express",
+        "img": "../image/logo192.png",
+        "description": "We send 'cold' packages anywhere in India, 365 days a year"
+    },
+    {
+        "id": 4,
+        "name": "Mail Express",
+        "img": "../image/logo192.png",
+        "description": "We send 'mailers' and 'letters' anywhere in India, 365 days a year"
+    }
+]

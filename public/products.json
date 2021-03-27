@@ -1,0 +1,34 @@
+[
+  {
+    "serviceName": "Domestic Express",
+    "id": 1,
+    "description": "We send packages 'domestically' anywhere in India, 365 days a year",
+    "discount": 10,
+    "parcelCharges": "Packages are charged on the basis on their weight and travel distance.",
+    "parcelSize": "Package can size up to 500 cm (total dimensions of 3 sides) and 30 kg."
+  },
+  {
+    "serviceName": "International Express",
+    "id": 2,
+    "description": "We send packages 'internationaly' anywhere in the world, 365 days a year",
+    "discount": 5,
+    "parcelCharges": "Packages are charged on the basis on their weight and travel distance.",
+    "parcelSize": "Package can size up to 500 cm (total dimensions of 3 sides) and 20 kg."
+  },
+  {
+    "serviceName": "Cold Express",
+    "id": 3,
+    "description": "We send 'cold' packages anywhere in India, 365 days a year",
+    "discount": 7,
+    "parcelCharges": "Packages are charged on the basis on their weight and travel distance.",
+    "parcelSize": "Package can size up to 350 cm (total dimensions of 3 sides) and 10 kg."
+  },
+  {
+    "serviceName": "Mail Express",
+    "id": 4,
+    "description": "We send 'mailers' and 'letters' anywhere in India, 365 days a year",
+    "discount": 7,
+    "parcelCharges": "Packages are charged on the basis on their weight and travel distance.",
+    "parcelSize": "Package can size up to 30 cm (total dimensions of 3 sides) and 1 kg."
+  }
+]
